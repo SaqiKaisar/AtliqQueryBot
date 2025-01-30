@@ -1,0 +1,12 @@
+langchain
+langchain_groq
+python-dotenv
+streamlit
+python-dotenv
+tiktoken
+faiss-cpu
+protobuf
+mysql-connector-python
+pymysql
+sentence-transformers
+chromadb
